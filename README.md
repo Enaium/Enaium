@@ -13,7 +13,7 @@
 ![ruby](https://img.shields.io/badge/-ruby-red?style=for-the-badge&logo=ruby&logoColor=white)
 ![c/c++](https://img.shields.io/badge/-c/c++-blue?style=for-the-badge&logo=c&logoColor=white)
 
-![git](https://img.shields.io/badge/-git-yellow?style=for-the-badge&logo=git&logoColor=white)
+![git](https://img.shields.io/badge/-git-green?style=for-the-badge&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white)
 ![markdown](https://img.shields.io/badge/-markdown-black?style=for-the-badge&logo=markdown&logoColor=white)
 ![json](https://img.shields.io/badge/-json-black?style=for-the-badge&logo=json&logoColor=white)
