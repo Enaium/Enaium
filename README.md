@@ -1,4 +1,4 @@
-### Hi there, I'm [Enaium!](https://enaium.cn) 👋
+### Hi there, I'm [Enaium!](https://www.enaium.cn) 👋
 
 ## Skills 🚀
 ---
