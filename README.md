@@ -18,6 +18,18 @@
 ![markdown](https://img.shields.io/badge/-markdown-black?style=for-the-badge&logo=markdown&logoColor=white)
 ![json](https://img.shields.io/badge/-json-black?style=for-the-badge&logo=json&logoColor=white)
 
+## Categories 🎨
+---
+
+[Misc Code](https://github.com/Enaium-Misc)
+
+[Minecraft Fabric Mods](https://github.com/Enaium-FabricMC)
+
+[Minecraft Forge Mods](https://github.com/Enaium-ForgeMC)
+
+[Stardew Valley Mods](https://github.com/Enaium-StardewValleyMods)
+
+
 ![Enaium's github stats](https://github-readme-stats.vercel.app/api?username=enaium)
 
 ![Enaium's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Enaium)
