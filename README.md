@@ -21,13 +21,15 @@
 ## Categories 🎨
 ---
 
-[Misc Code](https://github.com/Enaium-Misc)
+[Misc Code](https://github.com/Enaium-Learn)
 
-[Minecraft Fabric Mods](https://github.com/Enaium-FabricMC)
+[Learn Code](https://github.com/Enaium-Misc)
 
-[Minecraft Forge Mods](https://github.com/Enaium-ForgeMC)
+[Minecraft Fabric Mods Code](https://github.com/Enaium-FabricMC)
 
-[Stardew Valley Mods](https://github.com/Enaium-StardewValleyMods)
+[Minecraft Forge Mods Code](https://github.com/Enaium-ForgeMC)
+
+[Stardew Valley Mods Code](https://github.com/Enaium-StardewValleyMods)
 
 ![Enaium's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Enaium)
 
