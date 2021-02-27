@@ -21,9 +21,9 @@
 ## Categories 🎨
 ---
 
-[Misc Code](https://github.com/Enaium-Learn)
+[Learn Code](https://github.com/Enaium-Learn)
 
-[Learn Code](https://github.com/Enaium-Misc)
+[Misc Code](https://github.com/Enaium-Misc)
 
 [Minecraft Fabric Mods Code](https://github.com/Enaium-FabricMC)
 
