@@ -7,11 +7,10 @@
 ![java](https://img.shields.io/badge/-java-blue?style=for-the-badge&logo=java&logoColor=white)
 ![kotlin](https://img.shields.io/badge/-kotlin-blue?style=for-the-badge&logo=kotlin&logoColor=white)
 ![csharp](https://img.shields.io/badge/-csharp-blue?style=for-the-badge&logo=c&logoColor=blue&logoColor=white)
-
 ![javascript](https://img.shields.io/badge/-javascript-blue?style=for-the-badge&logo=javascript&logoColor=white)
+
 ![go](https://img.shields.io/badge/-go-blue?style=for-the-badge&logo=go&logoColor=white)
 ![python](https://img.shields.io/badge/-python-blue?style=for-the-badge&logo=python&logoColor=white)
-
 ![ruby](https://img.shields.io/badge/-ruby-blue?style=for-the-badge&logo=ruby&logoColor=white)
 ![c/c++](https://img.shields.io/badge/-c/c++-blue?style=for-the-badge&logo=c&logoColor=white)
 
@@ -19,13 +18,13 @@
 ![idea](https://img.shields.io/badge/-maven-black?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![maven](https://img.shields.io/badge/-maven-black?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![gradle](https://img.shields.io/badge/-git-black?style=for-the-badge&logo=gradle&logoColor=white)
-
 ![git](https://img.shields.io/badge/-git-black?style=for-the-badge&logo=git&logoColor=white)
+
 ![github](https://img.shields.io/badge/-black?style=for-the-badge&logo=github&logoColor=white)
 ![markdown](https://img.shields.io/badge/-markdown-black?style=for-the-badge&logo=markdown&logoColor=white)
-
 ![json](https://img.shields.io/badge/-json-black?style=for-the-badge&logo=json&logoColor=white)
 ![mariadb](https://img.shields.io/badge/-mariadb-black?style=for-the-badge&logo=mariadb&logoColor=white)
+
 ![mongodb](https://img.shields.io/badge/-mongodb-black?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## Categories 🎨
