@@ -1,7 +1,6 @@
 ### Hi there, I'm [Enaium!](https://www.enaium.cn) 👋
 
 ## Skills 🚀
----
 
 ### Programming language
 
@@ -30,7 +29,6 @@
 ![mongodb](https://img.shields.io/badge/-mongodb-black?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## Categories 🎨
----
 
 [Learn Code](https://github.com/Enaium-Learn)
 
