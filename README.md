@@ -41,7 +41,6 @@
 [Stardew Valley Mods Code](https://github.com/Enaium-StardewValleyMods)
 
 ## Other
----
 
 ![Enaium's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Enaium&layout=compact)
 
