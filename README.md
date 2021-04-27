@@ -22,7 +22,6 @@
 ![markdown](https://img.shields.io/badge/-markdown-black?style=for-the-badge&logo=markdown&logoColor=white)
 ![json](https://img.shields.io/badge/-json-black?style=for-the-badge&logo=json&logoColor=white)
 ![mariadb](https://img.shields.io/badge/-mariadb-black?style=for-the-badge&logo=mariadb&logoColor=white)
-![mongodb](https://img.shields.io/badge/-mongodb-black?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## Categories 🎨
 
