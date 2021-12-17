@@ -41,5 +41,6 @@
 
 ![Enaium's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Enaium&layout=compact)
 
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Enaium/langs?time_range=one_year&compact=True&theme=dark)](https://githubtrends.io)
 
 ![visitor](https://visitor-badge.laobi.icu/badge?page_id=enaium)
