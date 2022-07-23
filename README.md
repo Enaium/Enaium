@@ -4,7 +4,7 @@
 
 ### Programming language
 
-![java](https://img.shields.io/badge/-java-blue?style=for-the-badge&logo=java&logoColor=white)
+![java](https://img.shields.io/badge/-java-blue?style=for-the-badge&logo=OpenJDK&logoColor=white)
 ![kotlin](https://img.shields.io/badge/-kotlin-blue?style=for-the-badge&logo=kotlin&logoColor=white)
 ![csharp](https://img.shields.io/badge/-csharp-blue?style=for-the-badge&logo=c&logoColor=blue&logoColor=white)
 ![javascript](https://img.shields.io/badge/-javascript-blue?style=for-the-badge&logo=javascript&logoColor=white)
