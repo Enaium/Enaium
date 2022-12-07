@@ -2,6 +2,12 @@
 
 ## Skills 🚀
 
+### OS
+
+![windows](https://img.shields.io/badge/-windows-red?style=for-the-badge&logo=windows&logoColor=white)
+![archlinux](https://img.shields.io/badge/-archlinux-red?style=for-the-badge&logo=archlinux&logoColor=white)
+![debian](https://img.shields.io/badge/-debian-red?style=for-the-badge&logo=debian&logoColor=white)
+
 ### Programming language
 
 ![java](https://img.shields.io/badge/-java-blue?style=for-the-badge&logo=OpenJDK&logoColor=white)
@@ -13,6 +19,13 @@
 ![ruby](https://img.shields.io/badge/-ruby-blue?style=for-the-badge&logo=ruby&logoColor=white)
 ![c/c++](https://img.shields.io/badge/-c/c++-blue?style=for-the-badge&logo=c&logoColor=white)
 
+### Framework
+
+![springboot](https://img.shields.io/badge/-springboot-green?style=for-the-badge&logo=springboot&logoColor=white)
+
+![vue](https://img.shields.io/badge/-vue-green?style=for-the-badge&logo=vue.js&logoColor=white)
+![react](https://img.shields.io/badge/-react-green?style=for-the-badge&logo=react&logoColor=white)
+
 ### Tools
 ![idea](https://img.shields.io/badge/-idea-black?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![maven](https://img.shields.io/badge/-maven-black?style=for-the-badge&logo=apache-maven&logoColor=white)
@@ -23,6 +36,9 @@
 ![json](https://img.shields.io/badge/-json-black?style=for-the-badge&logo=json&logoColor=white)
 ![mariadb](https://img.shields.io/badge/-mariadb-black?style=for-the-badge&logo=mariadb&logoColor=white)
 ![redis](https://img.shields.io/badge/-redis-black?style=for-the-badge&logo=redis&logoColor=white)
+![firefox](https://img.shields.io/badge/-firefox-black?style=for-the-badge&logo=firefox&logoColor=white)
+![jekyll](https://img.shields.io/badge/-jekyll-black?style=for-the-badge&logo=jekyll&logoColor=white)
+![hugo](https://img.shields.io/badge/-hugo-black?style=for-the-badge&logo=hugo&logoColor=white)
 
 ## Categories 🎨
 
