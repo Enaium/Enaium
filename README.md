@@ -4,41 +4,43 @@
 
 ### OS
 
-![windows](https://img.shields.io/badge/-windows-red?style=for-the-badge&logo=windows&logoColor=white)
-![archlinux](https://img.shields.io/badge/-archlinux-red?style=for-the-badge&logo=archlinux&logoColor=white)
-![debian](https://img.shields.io/badge/-debian-red?style=for-the-badge&logo=debian&logoColor=white)
+![windows](https://img.shields.io/badge/-windows-red?style=flat-square&logo=windows&logoColor=white)
+![archlinux](https://img.shields.io/badge/-archlinux-red?style=flat-square&logo=archlinux&logoColor=white)
+![debian](https://img.shields.io/badge/-debian-red?style=flat-square&logo=debian&logoColor=white)
 
-### Programming language
+### Programming languages
 
-![java](https://img.shields.io/badge/-java-blue?style=for-the-badge&logo=OpenJDK&logoColor=white)
-![kotlin](https://img.shields.io/badge/-kotlin-blue?style=for-the-badge&logo=kotlin&logoColor=white)
-![csharp](https://img.shields.io/badge/-csharp-blue?style=for-the-badge&logo=c&logoColor=blue&logoColor=white)
-![javascript](https://img.shields.io/badge/-javascript-blue?style=for-the-badge&logo=javascript&logoColor=white)
-![go](https://img.shields.io/badge/-go-blue?style=for-the-badge&logo=go&logoColor=white)
-![python](https://img.shields.io/badge/-python-blue?style=for-the-badge&logo=python&logoColor=white)
-![ruby](https://img.shields.io/badge/-ruby-blue?style=for-the-badge&logo=ruby&logoColor=white)
-![c/c++](https://img.shields.io/badge/-c/c++-blue?style=for-the-badge&logo=c&logoColor=white)
+![java](https://img.shields.io/badge/-java-blue?style=flat-square&logo=OpenJDK&logoColor=white)
+![kotlin](https://img.shields.io/badge/-kotlin-blue?style=flat-square&logo=kotlin&logoColor=white)
+![csharp](https://img.shields.io/badge/-csharp-blue?style=flat-square&logo=c&logoColor=blue&logoColor=white)
+![javascript](https://img.shields.io/badge/-javascript-blue?style=flat-square&logo=javascript&logoColor=white)
+![go](https://img.shields.io/badge/-go-blue?style=flat-square&logo=go&logoColor=white)
+![python](https://img.shields.io/badge/-python-blue?style=flat-square&logo=python&logoColor=white)
+![ruby](https://img.shields.io/badge/-ruby-blue?style=flat-square&logo=ruby&logoColor=white)
+![c/c++](https://img.shields.io/badge/-c/c++-blue?style=flat-square&logo=c&logoColor=white)
 
 ### Framework
 
-![springboot](https://img.shields.io/badge/-springboot-green?style=for-the-badge&logo=springboot&logoColor=white)
+![springboot](https://img.shields.io/badge/-springboot-green?style=flat-square&logo=springboot&logoColor=white)
 
-![vue](https://img.shields.io/badge/-vue-green?style=for-the-badge&logo=vue.js&logoColor=white)
-![react](https://img.shields.io/badge/-react-green?style=for-the-badge&logo=react&logoColor=white)
+![vue](https://img.shields.io/badge/-vue-green?style=flat-square&logo=vue.js&logoColor=white)
+![react](https://img.shields.io/badge/-react-green?style=flat-square&logo=react&logoColor=white)
 
 ### Tools
-![idea](https://img.shields.io/badge/-idea-black?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![maven](https://img.shields.io/badge/-maven-black?style=for-the-badge&logo=apache-maven&logoColor=white)
-![gradle](https://img.shields.io/badge/-gradle-black?style=for-the-badge&logo=gradle&logoColor=white)
-![git](https://img.shields.io/badge/-git-black?style=for-the-badge&logo=git&logoColor=white)
-![github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)
-![markdown](https://img.shields.io/badge/-markdown-black?style=for-the-badge&logo=markdown&logoColor=white)
-![json](https://img.shields.io/badge/-json-black?style=for-the-badge&logo=json&logoColor=white)
-![mariadb](https://img.shields.io/badge/-mariadb-black?style=for-the-badge&logo=mariadb&logoColor=white)
-![redis](https://img.shields.io/badge/-redis-black?style=for-the-badge&logo=redis&logoColor=white)
-![firefox](https://img.shields.io/badge/-firefox-black?style=for-the-badge&logo=firefox&logoColor=white)
-![jekyll](https://img.shields.io/badge/-jekyll-black?style=for-the-badge&logo=jekyll&logoColor=white)
-![hugo](https://img.shields.io/badge/-hugo-black?style=for-the-badge&logo=hugo&logoColor=white)
+![jetbrains](https://img.shields.io/badge/-jetbrains-black?style=flat-square&logo=jetbrains&logoColor=white)
+![maven](https://img.shields.io/badge/-maven-black?style=flat-square&logo=apache-maven&logoColor=white)
+![gradle](https://img.shields.io/badge/-gradle-black?style=flat-square&logo=gradle&logoColor=white)
+![git](https://img.shields.io/badge/-git-black?style=flat-square&logo=git&logoColor=white)
+![docker](https://img.shields.io/badge/-docker-black?style=flat-square&logo=docker&logoColor=white)
+![github](https://img.shields.io/badge/github-black?style=flat-square&logo=github&logoColor=white)
+![markdown](https://img.shields.io/badge/-markdown-black?style=flat-square&logo=markdown&logoColor=white)
+![json](https://img.shields.io/badge/-json-black?style=flat-square&logo=json&logoColor=white)
+![mariadb](https://img.shields.io/badge/-mariadb-black?style=flat-square&logo=mariadb&logoColor=white)
+![redis](https://img.shields.io/badge/-redis-black?style=flat-square&logo=redis&logoColor=white)
+![firefox](https://img.shields.io/badge/-firefox-black?style=flat-square&logo=firefox&logoColor=white)
+![jekyll](https://img.shields.io/badge/-jekyll-black?style=flat-square&logo=jekyll&logoColor=white)
+![hugo](https://img.shields.io/badge/-hugo-black?style=flat-square&logo=hugo&logoColor=white)
+![virtualbox](https://img.shields.io/badge/-virtualbox-black?style=flat-square&logo=virtualbox&logoColor=white)
 
 ## Categories 🎨
 
