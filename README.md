@@ -13,7 +13,7 @@
 ![kotlin](https://img.shields.io/badge/-Kotlin-blue?style=flat-square&logo=kotlin&logoColor=white)
 ![csharp](https://img.shields.io/badge/-C%23-blue?style=flat-square&logo=c&logoColor=blue&logoColor=white)
 ![javascript](https://img.shields.io/badge/-JavaScript-blue?style=flat-square&logo=javascript&logoColor=white)
-![typescript](https://img.shields.io/badge/-TavaScript-blue?style=flat-square&logo=typescript&logoColor=white)
+![typescript](https://img.shields.io/badge/-TyepScript-blue?style=flat-square&logo=typescript&logoColor=white)
 
 ### Framework
 
