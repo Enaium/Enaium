@@ -13,7 +13,7 @@
 ![kotlin](https://img.shields.io/badge/-Kotlin-blue?style=flat-square&logo=kotlin&logoColor=white)
 ![csharp](https://img.shields.io/badge/-C%23-blue?style=flat-square&logo=c&logoColor=blue&logoColor=white)
 ![javascript](https://img.shields.io/badge/-JavaScript-blue?style=flat-square&logo=javascript&logoColor=white)
-![typescript](https://img.shields.io/badge/-TyepScript-blue?style=flat-square&logo=typescript&logoColor=white)
+![typescript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white)
 
 ### Framework
 
@@ -25,6 +25,7 @@
 ### Tools
 ![jetbrains](https://img.shields.io/badge/-JetBrains-black?style=flat-square&logo=jetbrains&logoColor=white)
 ![vscode](https://img.shields.io/badge/-Visual_Studio_Code-black?style=flat-square&logo=visualstudiocode&logoColor=white)
+![neovim](https://img.shields.io/badge/-NeoVim-black?style=flat-square&logo=neovim&logoColor=white)
 ![maven](https://img.shields.io/badge/-Maven-black?style=flat-square&logo=apache-maven&logoColor=white)
 ![gradle](https://img.shields.io/badge/-Gradle-black?style=flat-square&logo=gradle&logoColor=white)
 ![git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white)
@@ -34,6 +35,7 @@
 ![markdown](https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown&logoColor=white)
 ![json](https://img.shields.io/badge/-JSON-black?style=flat-square&logo=json&logoColor=white)
 ![redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis&logoColor=white)
+![rabbitmq](https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=rabbitmq&logoColor=white)
 ![firefox](https://img.shields.io/badge/-FireFox-black?style=flat-square&logo=firefox&logoColor=white)
 ![jekyll](https://img.shields.io/badge/-Jekyll-black?style=flat-square&logo=jekyll&logoColor=white)
 ![hugo](https://img.shields.io/badge/-HUGO-black?style=flat-square&logo=hugo&logoColor=white)
@@ -60,5 +62,3 @@
 [![](https://raw.githubusercontent.com/Enaium/Enaium/master/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Enaium/Enaium/master/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ![Enaium's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Enaium&layout=compact)
-
-![visitor](https://visitor-badge.laobi.icu/badge?page_id=enaium)
