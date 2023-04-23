@@ -43,17 +43,15 @@
 
 ## Categories 🎨
 
-[Learn Code](https://github.com/Enaium-Learn)
+[Learn Code](https://github.com/Enaium-Learn) **The codes of my teaching video**
 
-[Misc Code](https://github.com/Enaium-Misc)
+[Minecraft Fabric Mods Code](https://github.com/Enaium-FabricMC) **About the codes for Minecraft Fabric**
 
-[Minecraft Fabric Mods Code](https://github.com/Enaium-FabricMC)
+[Minecraft Forge Mods Code](https://github.com/Enaium-ForgeMC) **About the codes for Minecraft Forge**
 
-[Minecraft Forge Mods Code](https://github.com/Enaium-ForgeMC)
+[Stardew Valley Mods Code](https://github.com/Enaium-StardewValleyMods) **About the codes for Stardew Valley**
 
-[Stardew Valley Mods Code](https://github.com/Enaium-StardewValleyMods)
-
-[Archive Code](https://github.com/Enaium-Archive)
+[Archive Code](https://github.com/Enaium-Archive) **Miscellaneous and expired codes**
 
 ## Stats
 
