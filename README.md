@@ -66,4 +66,4 @@
 SINCE OCT 30 2020
 [![wakatime](https://wakatime.com/badge/user/fe319486-f277-4f0b-8ab5-0d36b7f066ea.svg?style=for-the-badge)](https://wakatime.com/@fe319486-f277-4f0b-8ab5-0d36b7f066ea) 
 
-![Enaium's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Enaium&layout=compact)
+![Enaium's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Enaium&range=all_time&layout=compact)
