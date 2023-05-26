@@ -43,7 +43,7 @@
 
 ## Categories 🎨
 
-[Learn Code](https://github.com/Enaium-Learn) **The codes of my teaching video**
+[Learn Code](https://github.com/Enaium-Learn) **The codes of my teaching video and blog**
 
 [Minecraft Fabric Mods Code](https://github.com/Enaium-FabricMC) **About the codes for Minecraft Fabric**
 
@@ -57,9 +57,8 @@
 
 ### GitHub
 
-[![](https://raw.githubusercontent.com/Enaium/Enaium/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Enaium/Enaium/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Enaium/Enaium/master/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Enaium/Enaium/master/profile-summary-card-output/default/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Enaium/Enaium/master/profile-summary-card-output/default/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](https://raw.githubusercontent.com/Enaium/Enaium/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/Enaium/Enaium/master/generated/languages.svg)
 
 ### Wakatime
 
