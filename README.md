@@ -6,7 +6,7 @@
 
 I have been using Windows for 13 years, and favourite Windows10, but I like using ArchLinux in the development environment.
 
-![windows](https://img.shields.io/badge/-Windows10-red?style=flat-square&logo=windows&logoColor=white)
+![windows](https://img.shields.io/badge/-Windows11-red?style=flat-square&logo=windows11&logoColor=white)
 ![archlinux](https://img.shields.io/badge/-ArchLinux-red?style=flat-square&logo=archlinux&logoColor=white)
 
 ### Programming languages
