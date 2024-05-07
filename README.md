@@ -39,28 +39,11 @@ These are my frequently used frameworks.
 ![github](https://img.shields.io/badge/Github-black?style=flat-square&logo=github&logoColor=white)
 ![mariadb](https://img.shields.io/badge/-MariaDB-black?style=flat-square&logo=mariadb&logoColor=white)
 ![postgres](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql&logoColor=white)
-![markdown](https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown&logoColor=white)
-![json](https://img.shields.io/badge/-JSON-black?style=flat-square&logo=json&logoColor=white)
 ![redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis&logoColor=white)
-![rabbitmq](https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=rabbitmq&logoColor=white)
 ![firefox](https://img.shields.io/badge/-FireFox-black?style=flat-square&logo=firefox&logoColor=white)
 ![jekyll](https://img.shields.io/badge/-Jekyll-black?style=flat-square&logo=jekyll&logoColor=white)
 ![hugo](https://img.shields.io/badge/-HUGO-black?style=flat-square&logo=hugo&logoColor=white)
-![virtualbox](https://img.shields.io/badge/-Virtual_Box-black?style=flat-square&logo=virtualbox&logoColor=white)
-
-## Categories 🎨
-
-**These organizations as my code categories, Because I don't want to mix them together, and GitHub doesn't support repository classification.**
-
-[Learn Code](https://github.com/Enaium-Learn)**This is a organization for taching code.**
-
-[Minecraft Fabric Mods Code](https://github.com/Enaium-FabricMC)**This is a organization for Minecraft Fabric Mods Code.**
-
-[Minecraft Forge Mods Code](https://github.com/Enaium-ForgeMC)**This is a organization for Minecraft Forge Mods Code.**
-
-[Stardew Valley Mods Code](https://github.com/Enaium-StardewValleyMods)**This is a organization for Stardew Valley Mods Code.**
-
-[Archive Code](https://github.com/Enaium-Archive)**This is a organization for miscellaneous and expired code.**
+![wsl](https://img.shields.io/badge/-WSL-black?style=flat-square&logo=windowsterminal&logoColor=white)
 
 ## Stats
 
@@ -68,12 +51,11 @@ These are my frequently used frameworks.
 
 I joined GitHub for 6 years, and these are my GitHub stats.
 
-![](https://raw.githubusercontent.com/Enaium/Enaium/master/generated/overview.svg)
-![](https://raw.githubusercontent.com/Enaium/Enaium/master/generated/languages.svg)
+![github status](https://github-readme-stats.vercel.app/api?username=enaium&show_icons=true&include_all_commits=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage)
+
+![top language](https://github-readme-stats.vercel.app/api/top-langs/?username=enaium&layout=pie&hide=css,scss,javascript,html&langs_count=8)
 
 ### Wakatime
-
-My wakatime stats, But I use it since Oct 30 2020
 
 [![wakatime](https://wakatime.com/badge/user/fe319486-f277-4f0b-8ab5-0d36b7f066ea.svg?style=for-the-badge)](https://wakatime.com/@fe319486-f277-4f0b-8ab5-0d36b7f066ea) 
 
