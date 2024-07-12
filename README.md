@@ -48,8 +48,8 @@ These are my frequently used frameworks.
 ![rider](https://img.shields.io/badge/-Rider-black?style=for-the-badge&logo=rider&logoColor=white)
 ![webstorm](https://img.shields.io/badge/-WebStorm-black?style=for-the-badge&logo=webstorm&logoColor=white)
 ![androidstudio](https://img.shields.io/badge/-Android_Studio-black?style=for-the-badge&logo=androidstudio&logoColor=white)
-![visualstudio](https://img.shields.io/badge/-Visual_Studio-black?style=for-the-badge&logo=visualstudio&logoColor=white)
-![vscode](https://img.shields.io/badge/-Visual_Studio_Code-black?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![visualstudio](https://img.shields.io/badge/-Visual_Studio-black?style=for-the-badge&logo=materialdesignicons&logoColor=white)
+![vscode](https://img.shields.io/badge/-Visual_Studio_Code-black?style=for-the-badge&logo=materialdesignicons&logoColor=white)
 ![eclipse](https://img.shields.io/badge/-Eclipse-black?style=for-the-badge&logo=eclipse&logoColor=white)
 ![neovim](https://img.shields.io/badge/-NeoVim-black?style=for-the-badge&logo=neovim&logoColor=white)
 ![maven](https://img.shields.io/badge/-Maven-black?style=for-the-badge&logo=apache-maven&logoColor=white)
@@ -75,8 +75,8 @@ These are my frequently used frameworks.
 ![jekyll](https://img.shields.io/badge/-Jekyll-black?style=for-the-badge&logo=jekyll&logoColor=white)
 ![hugo](https://img.shields.io/badge/-HUGO-black?style=for-the-badge&logo=hugo&logoColor=white)
 ![vitepress](https://img.shields.io/badge/-VitePress-black?style=for-the-badge&logo=vitepress&logoColor=white)
-![wsl](https://img.shields.io/badge/-WSL-black?style=for-the-badge&logo=windowsterminal&logoColor=white)
-![windowsterminal](https://img.shields.io/badge/-Windows_Terminal-black?style=for-the-badge&logo=windowsterminal&logoColor=white)
+![wsl](https://img.shields.io/badge/-WSL-black?style=for-the-badge&logo=gnometerminal&logoColor=white)
+![windowsterminal](https://img.shields.io/badge/-Windows_Terminal-black?style=for-the-badge&logo=gnometerminal&logoColor=white)
 ![obs](https://img.shields.io/badge/-OBS-black?style=for-the-badge&logo=obsstudio&logoColor=white)
 
 ## Stats
