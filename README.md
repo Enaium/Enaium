@@ -85,9 +85,8 @@ These are my frequently used frameworks.
 
 I joined GitHub for 6 years, and these are my GitHub stats.
 
-![github status](https://github-readme-stats.vercel.app/api?username=enaium&show_icons=true&include_all_commits=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage)
-
-![top language](https://github-readme-stats.vercel.app/api/top-langs/?username=enaium&layout=pie&hide=css,scss,javascript,html&langs_count=8)
+![](https://raw.githubusercontent.com/Enaium/Enaium/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/Enaium/Enaium/master/generated/languages.svg)
 
 ### Wakatime
 
