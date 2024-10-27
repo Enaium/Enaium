@@ -83,7 +83,7 @@ These are my frequently used frameworks.
 
 ### GitHub
 
-I joined GitHub for 6 years, and these are my GitHub stats.
+I joined GitHub for 7 years, and these are my GitHub stats.
 
 ![](https://raw.githubusercontent.com/Enaium/Enaium/master/generated/overview.svg)
 ![](https://raw.githubusercontent.com/Enaium/Enaium/master/generated/languages.svg)
