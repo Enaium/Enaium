@@ -6,7 +6,7 @@
 
 I have been using Windows for 15 years, and favourite Windows10, but I like using ArchLinux in the development environment.
 
-![windows](https://img.shields.io/badge/-Windows11-red?style=for-the-badge&logo=materialdesignicons&logoColor=white)
+![windows](https://img.shields.io/badge/-Windows10-red?style=for-the-badge&logo=materialdesignicons&logoColor=white)
 ![archlinux](https://img.shields.io/badge/-ArchLinux-red?style=for-the-badge&logo=archlinux&logoColor=white)
 
 ### Programming languages
@@ -27,8 +27,9 @@ These are my used programming languages.
 ![cpp](https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus&logoColor=blue&logoColor=white)
 ![swift](https://img.shields.io/badge/-Swift-blue?style=for-the-badge&logo=swift&logoColor=white)
 ![javascript](https://img.shields.io/badge/-JavaScript-blue?style=for-the-badge&logo=javascript&logoColor=white)
+![dart](https://img.shields.io/badge/-Dart-blue?style=for-the-badge&logo=dart&logoColor=white)
 ![html](https://img.shields.io/badge/-HTML-blue?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3&logoColor=white)
+![css](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css&logoColor=white)
 ![lua](https://img.shields.io/badge/-Lua-blue?style=for-the-badge&logo=lua&logoColor=white)
 ![squirrel](https://img.shields.io/badge/-Squirrel-blue?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAAYUExURQAAAAAAAGA5E3VMJNqSPsqWWPPUsf///9TyW/QAAAABdFJOUwBA5thmAAAAAWJLR0QHFmGI6wAAAAd0SU1FB+gGFg8VLbXHM/AAAABFSURBVAjXY2BAAoxQWlBIUADMV1IyNoQwjCEMIWVjY2OQnJASUA7EYHRxcQlkgDDcUBkMIi5uAlCGK4wRCmEwCgoyYAMAgWQI246r1TAAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjQtMDYtMjJUMTU6MjE6NDUrMDA6MDB/geqCAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDI0LTA2LTIyVDE1OjIxOjQ1KzAwOjAwDtxSPgAAACh0RVh0ZGF0ZTp0aW1lc3RhbXAAMjAyNC0wNi0yMlQxNToyMTo0NSswMDowMFnJc+EAAAAASUVORK5CYII=)
 ![epl](https://img.shields.io/badge/-EPL-blue?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgAgMAAAAOFJJnAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAAJUExURcDAwP////8AAMMibGgAAAABYktHRAH/Ai3eAAAAB3RJTUUH6AYWDxMVy58s6AAAAMlJREFUGNM1jzGqwzAQREfgbVKlkHKDfIhPIYMPoMCu4LtK4yI+RZocwanTbPF9yj9WyBbiMTusZoDvJDPLZkpQKbFBl+2YdhCTLISiHbCDCt+mdMmKjEhQMeOdw7ZtjzSMuPDgG2XED5VbvBLM6i0KmjJLjjjT48MY0XvdvNDTv2zxEhX9L1fKLy7zfXYNivPqsxsUp7r6ZzVVQuKd+0SIbOFLdVWgX/+m5zAo8/iSJDNqzkAX9szHGOxTJ4WSWh1FaE3pEXb/zj/FLkBy29uLhgAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyNC0wNi0yMlQxNToxOToyMSswMDowMMeU4eMAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjQtMDYtMjJUMTU6MTk6MjErMDA6MDC2yVlfAAAAKHRFWHRkYXRlOnRpbWVzdGFtcAAyMDI0LTA2LTIyVDE1OjE5OjIxKzAwOjAw4dx4gAAAAABJRU5ErkJggg==)
@@ -41,6 +42,8 @@ These are my frequently used frameworks.
 
 ![vue](https://img.shields.io/badge/-Vue-green?style=for-the-badge&logo=vue.js&logoColor=white)
 ![react](https://img.shields.io/badge/-React-green?style=for-the-badge&logo=react&logoColor=white)
+![kotlin multiplatform](https://img.shields.io/badge/-Kotlin_Multiplatform-green?style=for-the-badge&logo=kotlin&logoColor=white)
+![flutter](https://img.shields.io/badge/-Flutter-green?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### Tools
 
@@ -72,6 +75,7 @@ These are my frequently used frameworks.
 ![redis](https://img.shields.io/badge/-Redis-black?style=for-the-badge&logo=redis&logoColor=white)
 ![docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker&logoColor=white)
 ![firefox](https://img.shields.io/badge/-FireFox-black?style=for-the-badge&logo=firefox&logoColor=white)
+![chrome](https://img.shields.io/badge/-Chrome-black?style=for-the-badge&logo=google-chrome&logoColor=white)
 ![jekyll](https://img.shields.io/badge/-Jekyll-black?style=for-the-badge&logo=jekyll&logoColor=white)
 ![hugo](https://img.shields.io/badge/-HUGO-black?style=for-the-badge&logo=hugo&logoColor=white)
 ![vitepress](https://img.shields.io/badge/-VitePress-black?style=for-the-badge&logo=vitepress&logoColor=white)
