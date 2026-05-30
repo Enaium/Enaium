@@ -4,10 +4,11 @@
 
 ### OS
 
-I have been using Windows for 15 years, and favourite Windows10, but I like using ArchLinux in the development environment.
+These are the operating systems I use. MacOS for usual development, ArchLinux for server and WSL for testing, and Windows for work and gaming.
 
-![windows](https://img.shields.io/badge/-Windows10-red?style=for-the-badge&logo=materialdesignicons&logoColor=white)
+![MacOS](https://img.shields.io/badge/-MacOS-red?style=for-the-badge&logo=apple&logoColor=white)
 ![archlinux](https://img.shields.io/badge/-ArchLinux-red?style=for-the-badge&logo=archlinux&logoColor=white)
+![windows](https://img.shields.io/badge/-Windows10-red?style=for-the-badge&logo=materialdesignicons&logoColor=white)
 
 ### Programming languages
 
@@ -54,6 +55,7 @@ These are my frequently used frameworks.
 ![visualstudio](https://img.shields.io/badge/-Visual_Studio-black?style=for-the-badge&logo=materialdesignicons&logoColor=white)
 ![vscode](https://img.shields.io/badge/-Visual_Studio_Code-black?style=for-the-badge&logo=materialdesignicons&logoColor=white)
 ![eclipse](https://img.shields.io/badge/-Eclipse-black?style=for-the-badge&logo=eclipse&logoColor=white)
+![xcode](https://img.shields.io/badge/-Xcode-black?style=for-the-badge&logo=xcode&logoColor=white)
 ![neovim](https://img.shields.io/badge/-NeoVim-black?style=for-the-badge&logo=neovim&logoColor=white)
 ![maven](https://img.shields.io/badge/-Maven-black?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![gradle](https://img.shields.io/badge/-Gradle-black?style=for-the-badge&logo=gradle&logoColor=white)
@@ -96,4 +98,4 @@ I joined GitHub for 7 years, and these are my GitHub stats.
 
 [![wakatime](https://wakatime.com/badge/user/fe319486-f277-4f0b-8ab5-0d36b7f066ea.svg?style=for-the-badge)](https://wakatime.com/@fe319486-f277-4f0b-8ab5-0d36b7f066ea) 
 
-![Enaium's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Enaium&range=last_7_days&layout=compact)
+![Enaium's wakatime stats](https://wakatime.com/share/@Enaium/7c8f5228-c60b-4f52-87f8-c5e89765dd80.svg)
