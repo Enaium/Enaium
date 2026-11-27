@@ -4,7 +4,9 @@ const fetch = require("node-fetch");
 const d3 = require("d3");
 const JSDOM = require("jsdom").JSDOM;
 
-const WAKATIME_API_KEY = process.env.INPUT_WAKATIME_API_KEY;
+const WAKATIME_USER = process.env.WAKATIME_USER || "Enaium";
+const STATS_MAX_ATTEMPTS = 20;
+const STATS_RETRY_DELAY_MS = 3000;
 
 const createGeneratedDirectory = () => {
   process.stdout.write("Creating generated directory...");
@@ -12,12 +14,44 @@ const createGeneratedDirectory = () => {
   console.log("Done.");
 };
 
+const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+
+// WakaTime API keys are write-only now, so read the public profile stats
+// instead: https://wakatime.com/developers#authentication
 const getStatsData = async () => {
-  const raw_response = await fetch(
-    `https://wakatime.com/api/v1/users/current/stats/last_7_days?api_key=${WAKATIME_API_KEY}`
-  );
-  const response = await raw_response.json();
-  return response.data;
+  const url = `https://wakatime.com/api/v1/users/${WAKATIME_USER}/stats/last_7_days`;
+
+  for (let attempt = 1; attempt <= STATS_MAX_ATTEMPTS; attempt++) {
+    const response = await fetch(url);
+    const body = await response.json().catch(() => ({}));
+
+    if (response.status === 202 && attempt < STATS_MAX_ATTEMPTS) {
+      console.log(
+        `WakaTime stats pending, retrying in ${
+          STATS_RETRY_DELAY_MS / 1000
+        }s (${attempt}/${STATS_MAX_ATTEMPTS})...`
+      );
+      await sleep(STATS_RETRY_DELAY_MS);
+      continue;
+    }
+
+    const data = body.data;
+    if (
+      !response.ok ||
+      data?.status !== "ok" ||
+      !Array.isArray(data.languages)
+    ) {
+      const error = JSON.stringify(body.errors ?? body.error ?? body).slice(
+        0,
+        500
+      );
+      throw new Error(
+        `WakaTime stats unavailable (HTTP ${response.status}): ${error}`
+      );
+    }
+
+    return data;
+  }
 };
 
 const makeVirtualDom = () => {

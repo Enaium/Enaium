@@ -61,8 +61,6 @@ jobs:
 
     - name: Generate wakatime charts
       run: node src/generate-charts.js
-      env:
-        INPUT_WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
     - name: Commit to the repo
       run: |
